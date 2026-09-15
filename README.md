@@ -74,7 +74,7 @@ python evaluation/metrics.py
 5. Grad-CAM Görselleştirmesi
 python evaluation/gradcam.py
 
-Nihai Sonuçlar
+## Nihai Sonuçlar
 Metrik	Değer
 Doğruluk (Accuracy)	%87.5
 AUC-ROC	0.91
