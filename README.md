@@ -87,14 +87,22 @@ Hata Analizi: Modelin hafif ağrı vakalarında (PSPI = 1-2) zorlandığı, şid
 
 ## Proje Yapısı
 pain-recognition-facial-expression/
+
 │
 ├── data/                    # Veri ön işleme kodları
+
 ├── models/                  # Model mimarisi ve eğitim kodları
+
 ├── evaluation/              # Değerlendirme ve görselleştirme kodları
+
 ├── utils/                   # Yardımcı fonksiyonlar
+
 ├── notebooks/               # Keşifsel veri analizi
+
 ├── results/                 # Sonuç grafikleri
+
 ├── README.md
+
 └── requirements.txt
 
 ## Kaynaklar
