@@ -60,7 +60,7 @@ Model, **MobileNetV2** tabanlı transfer öğrenme yaklaşımı kullanılarak ge
 Projeyi çalıştırmak için gerekli kütüphaneler:
 pip install tensorflow keras opencv-python numpy pandas matplotlib scikit-learn
 
-Kullanım
+## Kullanım
 
 1. Veri Setinin Yüklenmesi
 Kaggle'dan veri setini indirin ve data/ klasörüne yerleştirin.
