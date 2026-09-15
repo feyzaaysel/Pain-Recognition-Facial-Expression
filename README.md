@@ -85,7 +85,7 @@ Grad-CAM Analizi: Modelin ağırlıklı olarak kaş (AU4), göz çevresi (AU6, A
 
 Hata Analizi: Modelin hafif ağrı vakalarında (PSPI = 1-2) zorlandığı, şiddetli ağrı vakalarında ise yüksek doğrulukla çalıştığı tespit edilmiştir.
 
-Proje Yapısı
+## Proje Yapısı
 pain-recognition-facial-expression/
 │
 ├── data/                    # Veri ön işleme kodları
@@ -97,7 +97,8 @@ pain-recognition-facial-expression/
 ├── README.md
 └── requirements.txt
 
-Kaynaklar
+## Kaynaklar
+
 [1] G. D. De Sario et al., "Using AI to Detect Pain through Facial Expressions: A Review," Bioengineering, vol. 10, no. 5, p. 548, May 2023.
 
 [2] M. Cascella et al., "Artificial intelligence for pain assessment via facial expression recognition (2015–2025): a systematic review," Exploration of Medicine, vol. 6, 2025.
